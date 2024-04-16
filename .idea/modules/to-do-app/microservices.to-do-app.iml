@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../to-do-app" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/../../../to-do-app/target" />
+    </content>
+  </component>
+</module>

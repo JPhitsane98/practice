@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a7cf8bf-e602-477a-a1e9-d6bec5100e56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/app.config.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/micro4/micro4.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/micro4/micro4.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/micro4/micro4.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/app/micro4/micro4.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/main.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/api/gateway/app/my-api-gateway-app/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/employee/management/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/employee/management/dto/EMPLOYMENTYPE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/employee/management/dto/EmployeeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/employee/management/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/employee/management/service/impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/java/employee/management/servlet/EmployeeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-management/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/beans/CalculatorsBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/beans/InvestmentBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/beans/LoanBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/beans/RetirementBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/beans/TaxBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/pojo/DURATIONTYPE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/pojo/IncomeTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/pojo/Investment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/pojo/Retirement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/pojo/StandardLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/service/InvestmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/service/LoanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/service/RetirementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/service/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/service/impl/InvestmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/service/impl/LoanServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/service/impl/RetirementServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/java/finacial/calculator/service/impl/TaxServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial-calculator/src/main/webapp/calculators.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/java/todo/app/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/java/todo/app/api/ToDoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/java/todo/app/dto/TaskDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/java/todo/app/entity/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/java/todo/app/repository/ToDoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/java/todo/app/service/ToDoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/java/todo/app/service/impl/ToDoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/src/AddTaskModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to-do-app/src/main/resources/todo-frontend/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/api-gateway">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/to-do-app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="microservices" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ehetCWEinUEuTpBzd1kg31urAF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.MyApplication.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.practice:to-do-app [:to-do-app:MyApplication.main()].executor": "Run",
+    "Maven.to-do-app [clean].executor": "Run",
+    "Maven.to-do-app [compile].executor": "Run",
+    "Maven.to-do-app [test].executor": "Run",
+    "Maven.to-do-app [validate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JERMINAH/practice/to-do-app",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.23333333",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="employee.management.dto" />
+      <recent name="finacial.calculator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JERMINAH\practice\to-do-app" />
+      <recent name="C:\Users\JERMINAH\practice\employee-management\src\main\webapp" />
+      <recent name="C:\Users\JERMINAH\practice\to-do-app\src\main\resources" />
+      <recent name="C:\Users\JERMINAH\practice\financial-calculator" />
+      <recent name="C:\Users\JERMINAH\practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JERMINAH\practice\to-do-app\src\main\resources" />
+      <recent name="C:\Users\JERMINAH\practice\to-do-app\src\main" />
+      <recent name="C:\Users\JERMINAH\practice\financial-calculator\src\main\webapp" />
+      <recent name="C:\Users\JERMINAH\practice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="finacial.calculator.beans" />
+      <recent name="finacial.calculator.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="todo.app.MyApplication" />
+      <module name="microservices.to-do-app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="todo.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a7cf8bf-e602-477a-a1e9-d6bec5100e56" name="Changes" comment="" />
+      <created>1712361450098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712361450098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+rootProject.name = 'microservices'
+include 'api-gateway'
+include 'financial-calculator'
+include 'to-do-app'
+include 'employee-management'
+

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+
+<h:head>
+    <title>Menu Page</title>
+</h:head>
+<h:body>
+    <div style="display: flex;">
+        <!-- Left Section for Menu Items -->
+        <div style="width: 20%; background-color: lightgray; padding: 10px;">
+            <h3>Menu</h3>
+            <ul>
+                <li><h:link value="Item 1" outcome="item1" /></li>
+                <li><h:link value="Item 2" outcome="item2" /></li>
+                <!-- Add more menu items as needed -->
+            </ul>
+        </div>
+
+        <!-- Right Section for Rendered Content -->
+        <div style="width: 80%; padding: 10px;">
+            <h3>Content</h3>
+            <h:panelGroup layout="block">
+                <!-- This is where the content will be rendered based on selected menu item -->
+                <h:panelGroup rendered="#{param['item1'] ne null}">
+                    <!-- Content for Item 1 -->
+                    <p>Content for Item 1 goes here.</p>
+                </h:panelGroup>
+                <h:panelGroup rendered="#{param['item2'] ne null}">
+                    <!-- Content for Item 2 -->
+                    <p>Content for Item 2 goes here.</p>
+                </h:panelGroup>
+                <!-- Add more content panels for other menu items -->
+            </h:panelGroup>
+        </div>
+    </div>
+</h:body>
+</html>
